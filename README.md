@@ -11,4 +11,20 @@ Repository to showcase general use of machine learning algorithms and processes,
 * KMeans
 * GMM
 * Finding appropriate cluster count
+* **Graded: 90/100**
+
+## Portfolio3-Reinforcement Learning
+* Markov Decision Process
+* Policy Calculation
+* Temporal Difference Learning
+* **Graded: ?/100**
+
+## Portfolio4-Dimensionality Reduction
+* Latent Features: PCA & FA
+* Feature Pruning
+* **Graded: ?/100**
+
+## Portfolio5-Capstone
+* ?
+* ?
 * **Graded: ?/100**
