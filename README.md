@@ -17,14 +17,15 @@ Repository to showcase general use of machine learning algorithms and processes,
 * Markov Decision Process
 * Policy Calculation
 * Temporal Difference Learning
-* **Graded: ?/100**
+* **Graded: 70/100**
 
 ## Portfolio4-Dimensionality Reduction
 * Latent Features: PCA & FA
 * Feature Pruning
-* **Graded: ?/100**
+* **Graded: 65/100**
 
 ## Portfolio5-Capstone
-* ?
-* ?
+* Fraud Classification
+* Class Imbalance
+* Model Evaluation
 * **Graded: ?/100**
