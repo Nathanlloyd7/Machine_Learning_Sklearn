@@ -28,4 +28,4 @@ Repository to showcase general use of machine learning algorithms and processes,
 * Fraud Classification
 * Class Imbalance
 * Model Evaluation
-* **Graded: ?/100**
+* **Graded: 90/100**
